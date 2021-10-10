@@ -1,0 +1,6 @@
+# dependencies
+/Artigos
+/.ipynb_checkpoints
+
+#misc 
+.env
