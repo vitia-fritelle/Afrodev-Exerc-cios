@@ -1,0 +1,33 @@
+User_id;Carimbo de data/hora;Gênero ;Idade;CEP;Gíria da sua cidade;Estilo de música favorita;Cor favorita ;Número de irmãos ;Qual seu salário dos sonhos ? ;Gosta de programação;Gosta de matemática;Qual sua série favorita?;Você gosta do seu nome?;Você acredita em ET?;Uma data importante;Qual joia do infinito dos vingadores vocês gostaria de possuir ?;O quão atraente você se considera de 0 até 10;O quanto você gosta de café?;Você prefere gato ou cachorro?
+1;04/10/2021 20:05:11;Masculino;31;90660170;Porto Alegre;Rock;Azul Marinho;0;R$ 5.000,00;Sim;Sim;Naruto Shippuden;Sim;Não;17/12/2018;JOIA DA ALMA;8;10;Cachorro
+2;04/10/2021 20:05:15;Masculino;26;44380000;Barril;Forró;Azul;1;12000;Sim;Sim;Suits;Sim;Sim;05/03/1995;JOIA DO TEMPO;10;5;Cachorro
+3;04/10/2021 20:05:25;Feminino;23;57061110;Maceió;Rock;Verde;1;10000;Sim;Sim;Friends;Sim;Sim;16/04/2018;JOIA DO TEMPO;8;10;Gato
+4;04/10/2021 20:05:32;Masculino;27;45820-085;Fazer um reg;Forró;Azul;3;10k;Sim;Sim;Game of Thrones;Sim;Sim;02/08/2017;JOIA DA REALIDADE;6;3;Gato
+5;04/10/2021 20:05:34;Masculino;20;45930-000;Didiel;Pagode;Preto;3;10.000;Sim;Sim;Mr. Robot;Sim;Não;23/05/2001;JOIA DO TEMPO;8;5;Cachorro
+6;04/10/2021 20:05:35;Masculino;30;50740170;Oxê;Rock;Azul;1;20000;Sim;Sim;Arrow;Sim;Sim;10/02/1991;JOIA DA ALMA;8;5;Cachorro
+7;04/10/2021 20:05:51;Masculino;27;21755410;Ainda?;Pagode;Azul;1;10000;Sim;Sim;the mandalorian;Sim;Não;28/01/2018;JOIA DO TEMPO;6;7;Cachorro
+8;04/10/2021 20:05:55;Masculino;28;60510107;Aí dento! ;Forró;Roxo;3;10000;Sim;Sim;Sakura Card Captors;Sim;Sim;22/06/1993;JOIA DO TEMPO;8;9;Gato
+9;04/10/2021 20:06:08;Feminino;43;15650-000;;Pagode;roxo;mais de 3;R$ 15.000,00;Sim;Sim;Grey's Anatomy;Sim;Não;14/10/1977;JOIA DA MENTE;8;10;Gato
+10;04/10/2021 20:06:48;Feminino;28;31160-230;Belo Horizonte;Pagode;Vermelho;1;30.000;Sim;Sim;This is us!;Sim;Sim;16/07/1993;JOIA DA MENTE;9;9;Gato
+11;04/10/2021 20:07:03;Masculino;24;8575710;Itaqua;Pagode;Vermelha;3;50.000,00;Sim;Sim;Desenvolvimento;Sim;Sim;28/07/2020;JOIA DO TEMPO;7;0;Cachorro
+12;04/10/2021 20:07:04;Feminino;39;03547-010;São Paulo;Pagode;Preto;2;28.000;Sim;Sim;Como defender um assassino;Sim;Não;29/09/2016;JOIA DA ALMA;8;0;Cachorro
+13;04/10/2021 20:07:23;Masculino;33;13468881;Americana-SP;Pagode;Azul;1;15000;Sim;Sim;Brooklyn 99;Sim;Sim;15/06/1953;JOIA DA REALIDADE;7;10;Gato
+14;04/10/2021 20:07:43;Feminino;32;38408-200;Oxe, Oxente, na moral;Forró;Vermelho;mais de 3;15 mil;Sim;Sim;Black Mirror;Sim;Sim;07/04/1989;JOIA DO TEMPO;7;9;Cachorro
+15;04/10/2021 20:08:08;Masculino;21;53110-472;Olinda;Forró;Vermelho;1;7000;Sim;Sim;Ponto Cego;Sim;Não;15/08/2017;JOIA DA REALIDADE;5;9;Cachorro
+16;04/10/2021 20:08:10;Masculino;25;35170231;Apruma o corpo;Rock;Preto ;2;120 mil;Sim;Sim;Round 6;Sim;Não;07/06/1996;JOIA DO TEMPO;5;10;Cachorro
+17;04/10/2021 20:09:03;Masculino;41;08527-052;Ferraz de Vasconcelos;Pagode;Amarelo ;1;7.000;Sim;Sim;Breaking bad;Sim;Não;05/02/2015;JOIA DA MENTE;10;10;Cachorro
+18;04/10/2021 20:09:19;Feminino;33 anos;9430520;Ribeirão Pires;Rock;Roxo;2;15000;Sim;Sim;The witcher;Sim;Sim;21/08/1948;JOIA DA MENTE;9;1;Cachorro
+19;04/10/2021 20:09:30;Feminino;35 anos;88049-130;Tanso;Pagode;Amarelo;mais de 3;25 mil reais;Sim;Sim;For Life;Sim;Não;25/05/1966;JOIA DA MENTE;8;1;Cachorro
+20;04/10/2021 20:09:46;Feminino;20;65917-052;Marmeninooo!;Rock;Lilás;1;10k+;Sim;Talvez;Adventure Time;Sim;Não;26/10/2000;JOIA DO TEMPO;6;10;Gato
+21;04/10/2021 20:09:57;Masculino;26;1524010;salve mano;Pagode;preta;0;40 mil;Sim;Sim;the walking death;Sim;Sim;17/03/2018;JOIA DA MENTE;10;7;Cachorro
+22;04/10/2021 20:10:05;Feminino;52;8081490;;Forró;Azul;2;R$ 20.000,00;Sim;Sim;NCIS;Sim;Sim;01/11/2001;JOIA DA ALMA;5;10;Gato
+23;04/10/2021 20:10:17;Feminino;29;78088-285;Xomano;Forró;Vermelho;2;15.000,00;Sim;Sim;The Boys;Sim;Não;05/05/2018;JOIA DA MENTE;8;10;Cachorro
+24;04/10/2021 20:10:31;Feminino;23;11020002;Eai mano;Rock;azul;1;5 mil;Sim;Sim;Brooklyn Nine Nine;Sim;Não;26/12/2006;JOIA DA REALIDADE;9;3;Gato
+25;04/10/2021 20:11:16;Feminino;38;66095531;Égua!!!;Rock;Azul;0;R$ 20.000,00;Sim;Sim;Sandman;Sim;Sim;;JOIA DO TEMPO;5;2;
+26;04/10/2021 20:11:39;Masculino;35;8470480;Mano;Pagode;Preto;mais de 3;20.000 mensais;Sim;Sim;American gods;Sim;Sim;06/07/2013;JOIA DO TEMPO;5;7;Cachorro
+27;04/10/2021 20:15:02;Masculino;41;08527-052;Mano;Pagode;Amarelo;1;7.000,00;Sim;Sim;Breaking bad;Sim;Não;05/02/2015;JOIA DA MENTE;10;10;Cachorro
+28;05/10/2021 21:13:47;Feminino;20;45780-000;Itarantim;Rock;verde;1;100000;Sim;Sim;verde;Sim;Não;;JOIA DA ALMA;9;10;Gato
+29;05/10/2021 22:04:03;Feminino;23;65917310;Mermã;Forró;Amarelo;2;50000;Sim;Talvez;This is us;Sim;Sim;11/02/2019;JOIA DO ESPAÇO;8;6;Gato
+30;06/10/2021 20:48:04;Masculino;28;20560001;Marrento;Rock;Preto;mais de 3;20000;Sim;Sim;Suits;Sim;Não;22/02/1993;JOIA DO TEMPO;6;8;Cachorro
+31;06/10/2021 20:51:43;Masculino;21;77063-418; Véi;Rock;Preto;3;3000;Sim;Sim;Doctor Who;Sim;Sim;20/06/2000;JOIA DO TEMPO;7;8;Cachorro
+32;06/10/2021 20:56:03;Masculino;21;59031-350;Galado;Forró;Preto;2;100mil;Sim;Talvez;Avatar a lenda de Korra;Sim;Sim;26/08/2000;JOIA DO TEMPO;3;2;Gato
